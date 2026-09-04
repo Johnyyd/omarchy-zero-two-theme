@@ -26,14 +26,14 @@ omarchy-theme-install https://github.com/Johnyyd/omarchy-zero-two-theme
 
 <table>
   <tr>
-    <td><img src="backgrounds/0-zero-two.jpg" width="220" alt="Zero Two"></td>
-    <td><img src="backgrounds/1-zero-two.jpg" width="220" alt="Zero Two"></td>
+    <td><img src="backgrounds/0-zero-two.png" width="220" alt="Zero Two"></td>
+    <td><img src="backgrounds/1-zero-two.png" width="220" alt="Zero Two"></td>
     <td><img src="backgrounds/2-zero-two.jpg" width="220" alt="Zero Two"></td>
   </tr>
   <tr>
-    <td><img src="backgrounds/3-zero-two.jpg" width="220" alt="Zero Two"></td>
-    <td><img src="backgrounds/4-zero-two.jpg" width="220" alt="Zero Two"></td>
-    <td><img src="backgrounds/5-zero-two.jpg" width="220" alt="Zero Two"></td>
+    <td><img src="backgrounds/3-zero-two.png" width="220" alt="Zero Two"></td>
+    <td><img src="backgrounds/4-zero-two.png" width="220" alt="Zero Two"></td>
+    <td><img src="backgrounds/5-zero-two.png" width="220" alt="Zero Two"></td>
   </tr>
   <tr>
     <td><img src="backgrounds/6-zero-two.jpg" width="220" alt="Zero Two"></td>
