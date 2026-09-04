@@ -43,30 +43,30 @@
 */
 
   /* ANSI palette */
-  @define-color color0 #0b0d11;
-  @define-color color1 #ff1493;
-  @define-color color2 #ff69b4;
-  @define-color color3 #ff85b3;
-  @define-color color4 #ff69b4;
-  @define-color color5 #ffffff;
-  @define-color color6 #ff85b3;
-  @define-color color7 #ffffff;
-  @define-color color8 #674242;
-  @define-color color9 #ff0000;
-  @define-color color10 #ff1493;
-  @define-color color11 #ff85b3;
-  @define-color color12 #ff69b4;
-  @define-color color13 #ff69b4;
-  @define-color color14 #ff85b3;
-  @define-color color15 #ffffff;
+  @define-color color0 #2a2a26;
+  @define-color color1 #bf3533;
+  @define-color color2 #8bc7c3;
+  @define-color color3 #e98129;
+  @define-color color4 #fbc6c8;
+  @define-color color5 #fbc6c8;
+  @define-color color6 #8bc7c3;
+  @define-color color7 #fbc6c8;
+  @define-color color8 #2a2a26;
+  @define-color color9 #bf3533;
+  @define-color color10 #8bc7c3;
+  @define-color color11 #e98129;
+  @define-color color12 #fbc6c8;
+  @define-color color13 #bf3533;
+  @define-color color14 #8bc7c3;
+  @define-color color15 #fbc6c8;
 
   /* Optional semantic aliases */
-  @define-color background #0b0d11;
-  @define-color foreground #ffffff;
-  @define-color accent #ff1493;
-  @define-color selection_bg #ff1493;
-  @define-color selection_fg #0b0d11;
-  @define-color cursor #ff1493;
+  @define-color background #2a2a26;
+  @define-color foreground #fbc6c8;
+  @define-color accent #bf3533;
+  @define-color selection_bg #bf3533;
+  @define-color selection_fg #2a2a26;
+  @define-color cursor #bf3533;
 
 /*   ____  __   __ */
 /*  / __ \/ /__/ / */

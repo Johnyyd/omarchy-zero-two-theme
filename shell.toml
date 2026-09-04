@@ -21,43 +21,43 @@
 # Pink/red leads focus and selection; dark tones provide depth and contrast.
 
 [bar]
-background       = "#0b0d11"
+background       = "#2a2a26"
 background-alpha = 0.80
-text             = "#ffffff"
-active           = "#ff1493"
+text             = "#fbc6c8"
+active           = "#bf3533"
 scale-with-font  = true
 size-horizontal  = 30
 size-vertical    = 32
 
 [hyprland]
-active-border            = "rgba(ff1493ff) rgba(ffffffcc) rgba(ff69b4aa) 35deg"
-active-border-foreground = "rgb(ff1493) rgb(ff69b4) 35deg"
+active-border            = "rgba(bf3533ff) rgba(fbc6c8cc) rgba(8bc7c3aa) 35deg"
+active-border-foreground = "rgb(bf3533) rgb(8bc7c3) 35deg"
 
 [controls]
 # Quiet controls carry the leaf tone without outlining every element.
-normal-color        = "#674242"
+normal-color        = "#8bc7c3"
 normal-fill-alpha   = 0.05
-normal-border       = "#ff1493"
+normal-border       = "#bf3533"
 normal-border-width = 0
 normal-border-alpha = 0.0
 
-hover-cursor-color        = "#ffffff"
+hover-cursor-color        = "#fbc6c8"
 hover-cursor-fill-alpha   = 0.10
-hover-cursor-border       = "#ff69b4"
+hover-cursor-border       = "#e98129"
 hover-cursor-border-width = 0
 hover-cursor-border-alpha = 0.0
 
 # Focus catches both blossom light and the green structural edge.
-focus-color        = "#ffffff"
+focus-color        = "#fbc6c8"
 focus-fill-alpha   = 0.13
 focus-border       = "hyprland.active-border-foreground"
 focus-border-width = 1
 focus-border-alpha = 0.72
 
 # Persistent selection uses a soft pink fill with one disciplined underline.
-selected-color        = "#ffffff"
+selected-color        = "#fbc6c8"
 selected-fill-alpha   = 0.18
-selected-border       = "#ff1493"
+selected-border       = "#bf3533"
 selected-border-width = "0 0 1 0"
 selected-border-alpha = 0.82
 
@@ -104,20 +104,20 @@ border-alpha     = 0.72
 border-width     = 2
 
 [tooltip]
-background       = "#0b0d11"
+background       = "#2a2a26"
 background-alpha = 0.96
-text             = "#ffffff"
-border           = "#ffb6c1"
+text             = "#fbc6c8"
+border           = "#e98129"
 border-alpha     = 0.68
 
 [notifications]
-background       = "#0b0d11"
+background       = "#2a2a26"
 background-alpha = 0.92
-text             = "#ffffff"
+text             = "#fbc6c8"
 border           = "hyprland.active-border"
 border-alpha     = 0.78
 border-width     = 2
-countdown        = "#db7093"
+countdown        = "#e98129"
 
 [launcher]
 background                = "#0b0d11"

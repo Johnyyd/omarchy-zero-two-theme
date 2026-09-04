@@ -4,7 +4,7 @@ Zero Two is a dark Omarchy theme inspired by the character from Darling in the F
 
 ## Preview
 
-![Sakura Mochi preview](preview.png)
+![Zero Two preview](preview.png)
 
 ## Install
 

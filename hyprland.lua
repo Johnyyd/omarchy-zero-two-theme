@@ -21,10 +21,10 @@
 -- Source: /home/oldjobobo/Projects/themes/omarchy-sakura-mochi-theme/hyprland.conf
 
 local activeBorderColor = {
-  colors = { "rgba(ff1493ff)", "rgba(ffffffcc)", "rgba(ff69b4aa)" },
+  colors = { "rgba(bf3533ff)", "rgba(fbc6c8cc)", "rgba(8bc7c3aa)" },
   angle = 35,
 }
-local inactiveBorderColor = "rgba(67424299)"
+local inactiveBorderColor = "rgba(2a2a2699)"
 local shadowColor = "rgba(0b0d118c)"
 
 hl.config({

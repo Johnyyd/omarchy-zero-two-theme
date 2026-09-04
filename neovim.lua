@@ -27,35 +27,35 @@ return {
 			transparent = false,
 			colors = {
 				-- Background colors
-				bg = "#0b0d11",
-				bg_dark = "#0b0d11",
-				bg_highlight = "#ff85b3",
+				bg = "#2a2a26",
+				bg_dark = "#2a2a26",
+				bg_highlight = "#e98129",
 
 				-- Foreground colors
 				-- fg: Object properties, builtin types, builtin variables, member access, default text
-				fg = "#ffffff",
+				fg = "#fbc6c8",
 				-- fg_dark: Inactive elements, statusline, secondary text
-				fg_dark = "#d8c6cc",
+				fg_dark = "#e98129",
 				-- comment: Line highlight, gutter elements, disabled states
-				comment = "#674242",
+				comment = "#8bc7c3",
 
 				-- Accent colors
 				-- red: Errors, diagnostics, tags, deletions, breakpoints
-				red = "#ff69b4",
+				red = "#bf3533",
 				-- orange: Constants, numbers, current line number, git modifications
-				orange = "#ffb6c1",
+				orange = "#fbc6c8",
 				-- yellow: Types, classes, constructors, warnings, numbers, booleans
-				yellow = "#ffb6c1",
+				yellow = "#fbc6c8",
 				-- green: Comments, strings, success states, git additions
-				green = "#ff1493",
+				green = "#8bc7c3",
 				-- cyan: Parameters, regex, preprocessor, hints, properties
-				cyan = "#ffb6c1",
+				cyan = "#8bc7c3",
 				-- blue: Functions, keywords, directories, links, info diagnostics
-				blue = "#db7093",
+				blue = "#8bc7c3",
 				-- purple: Storage keywords, special keywords, identifiers, namespaces
-				purple = "#db7093",
+				purple = "#8bc7c3",
 				-- magenta: Function declarations, exception handling, tags
-				magenta = "#ff0000",
+				magenta = "#bf3533",
 			},
 			on_highlights = function(hl, c)
 				hl["@constant.builtin"] = { fg = c.orange }

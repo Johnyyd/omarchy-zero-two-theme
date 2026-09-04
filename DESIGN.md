@@ -51,36 +51,36 @@ That means:
 
 ### Core Neutrals
 
-- Background: `#0b0d11` (`background`, `color0`)
-- Raised lacquer surface: `#19171c` (`lighter_bg`)
-- Deep structural green-black: `#4a5d46` (`dark_fg`)
-- Readable muted green: `#674242` (`muted`, `color8`)
-- Primary foreground pink: `#ffffff` (`foreground`, `color5`, `color7`)
+- Background: `#2a2a26` (`background`, `color0`)
+- Raised lacquer surface: `#3a3a36` (`lighter_bg`)
+- Deep structural green-black: `#8bc7c3` (`dark_fg`)
+- Readable muted green: `#6a6a66` (`muted`, `color8`)
+- Primary foreground pink: `#fbc6c8` (`foreground`, `color5`, `color7`)
 
 ### Primary Accent System
 
-- Primary focus pink: `#ff69b4` (`accent`, `active_border_color`, `selection_background`, `color1`)
-- Primary foreground pink: `#ffffff` (`foreground`, `color5`)
-- Soft living green: `#ff1493` (`color2`)
-- Bright electric green: `#db7093` (`color4`)
-- Secondary cool support green: `#ffb6c1` (`color6`)
-- Bright support green: `#ff69b4` (`color10`)
-- Pale support cyan-green: `#ff85b3` (`color14`)
+- Primary focus pink: `#bf3533` (`accent`, `active_border_color`, `selection_background`, `color1`)
+- Primary foreground pink: `#fbc6c8` (`foreground`, `color5`)
+- Soft living green: `#8bc7c3` (`color2`)
+- Bright electric green: `#8bc7c3` (`color4`)
+- Secondary cool support green: `#e98129` (`color6`)
+- Bright support green: `#8bc7c3` (`color10`)
+- Pale support cyan-green: `#8bc7c3` (`color14`)
 
 ### Supporting Light Tones
 
-- Warm cream: `#ffb6c1` (`color3`)
-- Bright cream: `#ffb6c1` (`color11`)
-- Light shell pink: `#d8c6cc` (`soft_fg`, used only for hand-tuned secondary text)
-- Bright shell pink: `#db7093` (`color13`)
-- Bright white-pink: `#ffffff` (`color15`)
+- Warm cream: `#e98129` (`color3`)
+- Bright cream: `#e98129` (`color11`)
+- Light shell pink: `#e98129` (`soft_fg`, used only for hand-tuned secondary text)
+- Bright shell pink: `#bf3533` (`color13`)
+- Bright white-pink: `#fbc6c8` (`color15`)
 
 ### Semantic Intent
 
-- Pink carries active states, focus, selected surfaces, and visual charm.
-- Green carries support structure, troughs, inactive framing, and atmosphere.
-- Dark plum-black carries depth, contrast, and the mochi-shell body of the interface.
-- Cream and cyan-green support tones stay secondary and should not dominate the shell language.
+- Pink/red carries active states, focus, selected surfaces, and visual charm.
+- Green/cyan carries support structure, troughs, inactive framing, and atmosphere.
+- Dark brown-black carries depth, contrast, and the mochi-shell body of the interface.
+- Orange and cyan-green support tones stay secondary and should not dominate the shell language.
 
 ## Surface Language
 
@@ -269,4 +269,4 @@ Required check:
 
 ## One-Sentence Test
 
-If a new surface looks like black glass with pink blossom light and green support underneath, it belongs to Sakura Mochi.
+If a new surface looks like dark glass with pink/red energy and green/cyan support underneath, it belongs to Zero Two.
