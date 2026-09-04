@@ -37,11 +37,11 @@
 /* |                                                   | */
 /*  .-^~^-. \/ .-^~^-. \\ `-._.-` // .-^~^-. \/ .-^~^-. */
 
-@define-color background #0b0d11;
-@define-color foreground #ffffff;
+@define-color background #2a2a26;
+@define-color foreground #fbc6c8;
 @define-color border alpha(@foreground, 0.3);
-@define-color accent #ff69b4;
-@define-color panel-tint rgba(90, 161, 93, 0.05);
+@define-color accent #bf3533;
+@define-color panel-tint rgba(139, 199, 195, 0.05);
 @define-color panel alpha(@background, 0.9);
 
 window#waybar {

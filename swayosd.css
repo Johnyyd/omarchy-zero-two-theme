@@ -17,15 +17,15 @@
 /* |                                                   | */
 /*  .-^~^-. \/ .-^~^-. \\ `-._.-` // .-^~^-. \/ .-^~^-. */
 
-@define-color background-color #0b0d11;
-@define-color border-color rgba(242, 56, 136, 0.3);
-@define-color label #ffffff;
-@define-color image #ff1493;
-@define-color progress #ff69b4;
-@define-color progress-trough rgba(74, 93, 70, 0.56);
-@define-color progress-outline rgba(90, 161, 93, 0.28);
-@define-color panel-tint rgba(90, 161, 93, 0.06);
-@define-color shadow rgba(0, 0, 0, 0.34);
+@define-color background-color #2a2a26;
+@define-color border-color rgba(191, 53, 51, 0.3);
+@define-color label #fbc6c8;
+@define-color image #bf3533;
+@define-color progress #8bc7c3;
+@define-color progress-trough rgba(139, 199, 195, 0.56);
+@define-color progress-outline rgba(139, 199, 195, 0.28);
+@define-color panel-tint rgba(139, 199, 195, 0.06);
+@define-color shadow rgba(42, 42, 38, 0.34);
 
 window:not(:backdrop),
 window:backdrop {

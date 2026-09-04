@@ -25,48 +25,48 @@
 **/
 
 :root {
-  --color00: #0b0d11;
-  --color01: #ff1493;
-  --color02: #ff69b4;
-  --color03: #ff85b3;
-  --color04: #ff69b4;
-  --color05: #ffffff;
-  --color06: #ff85b3;
-  --color07: #ffffff;
-  --color08: #674242;
-  --color09: #ff0000;
-  --color10: #ff1493;
-  --color11: #ff85b3;
-  --color12: #ff69b4;
-  --color13: #ff69b4;
-  --color14: #ff85b3;
-  --color15: #ffffff;
+  --color00: #2a2a26;
+  --color01: #bf3533;
+  --color02: #8bc7c3;
+  --color03: #e98129;
+  --color04: #fbc6c8;
+  --color05: #fbc6c8;
+  --color06: #8bc7c3;
+  --color07: #fbc6c8;
+  --color08: #2a2a26;
+  --color09: #bf3533;
+  --color10: #8bc7c3;
+  --color11: #e98129;
+  --color12: #fbc6c8;
+  --color13: #bf3533;
+  --color14: #8bc7c3;
+  --color15: #fbc6c8;
 }
 
-  --sm-void: #090d13;
-  --sm-bg: #0b0d11;
-  --sm-panel: #151c26;
-  --sm-panel-hi: #1c2531;
-  --sm-panel-top: #202a37;
-  --sm-text: #ffffff;
-  --sm-text-soft: #d8c6cc;
-  --sm-muted: #9e9098;
-  --sm-text-pink: #ff69b4;
-  --sm-name-pink: #ff0000;
-  --sm-pink: #ff1493;
-  --sm-pink-bright: #ff0000;
+  --sm-void: #191917;
+  --sm-bg: #2a2a26;
+  --sm-panel: #353533;
+  --sm-panel-hi: #3d3d3b;
+  --sm-panel-top: #454543;
+  --sm-text: #fbc6c8;
+  --sm-text-soft: #e98129;
+  --sm-muted: #8a8a88;
+  --sm-text-pink: #bf3533;
+  --sm-name-pink: #fbc6c8;
+  --sm-pink: #bf3533;
+  --sm-pink-bright: #fbc6c8;
   --sm-pink-frost: color-mix(in srgb, var(--color01) 18%, transparent);
   --sm-pink-line: color-mix(in srgb, var(--color01) 38%, transparent);
-  --sm-green: #ff1493;
-  --sm-green-bright: #db7093;
+  --sm-green: #8bc7c3;
+  --sm-green-bright: #8bc7c3;
   --sm-green-frost: color-mix(in srgb, var(--color02) 12%, transparent);
   --sm-green-line: color-mix(in srgb, var(--color06) 30%, transparent);
-  --sm-cream: #ffb6c1;
+  --sm-cream: #e98129;
   --sm-shell: color-mix(in srgb, var(--sm-bg) 82%, transparent);
   --sm-shell-strong: color-mix(in srgb, var(--sm-bg) 92%, black);
   --sm-stroke: color-mix(in srgb, var(--color15) 7%, transparent);
-  --sm-shadow: rgba(5, 6, 10, 0.5);
-  --sm-shadow-strong: rgba(5, 6, 10, 0.72);
+  --sm-shadow: rgba(42, 42, 38, 0.5);
+  --sm-shadow-strong: rgba(42, 42, 38, 0.72);
 }
 
 .theme-dark,
@@ -74,14 +74,14 @@
 .theme-midnight,
 .visual-refresh {
   --background-primary: var(--sm-bg) !important;
-  --background-secondary: #0d1219 !important;
+  --background-secondary: #353533 !important;
   --background-secondary-alt: var(--sm-panel) !important;
   --background-tertiary: var(--sm-void) !important;
   --background-accent: var(--sm-panel-hi) !important;
   --background-floating: var(--sm-shell-strong) !important;
 
-  --background-base-lowest: #070a10 !important;
-  --background-base-lower: #0c1118 !important;
+  --background-base-lowest: #191917 !important;
+  --background-base-lower: #222220 !important;
   --background-base-low: var(--sm-bg) !important;
   --background-base-high: var(--sm-panel-hi) !important;
   --background-base-higher: var(--sm-panel-top) !important;
@@ -92,8 +92,8 @@
   --background-surface-highest: color-mix(in srgb, var(--sm-panel-top) 88%, white) !important;
   --bg-surface-raised: var(--sm-panel) !important;
   --bg-surface-overlay: var(--sm-shell) !important;
-  --bg-base-secondary: #0d1219 !important;
-  --bg-base-tertiary: #090d13 !important;
+  --bg-base-secondary: #353533 !important;
+  --bg-base-tertiary: #191917 !important;
   --bg-overlay-2: color-mix(in srgb, var(--sm-panel) 90%, black) !important;
   --bg-overlay-3: color-mix(in srgb, var(--sm-panel-hi) 92%, black) !important;
 

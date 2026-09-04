@@ -25,25 +25,25 @@
  */
 
 /* Dynamic Color Palette */
-@define-color background #0b0d11;
-@define-color foreground #ffffff;
+@define-color background #2a2a26;
+@define-color foreground #fbc6c8;
 
-@define-color black #0b0d11;
-@define-color red #ff69b4;
-@define-color green #ff1493;
-@define-color yellow #ffb6c1;
-@define-color blue #db7093;
-@define-color magenta #ffffff;
-@define-color cyan #ffb6c1;
-@define-color white #ffffff;
-@define-color bright_black #674242;
-@define-color bright_red #ff0000;
-@define-color bright_green #ff69b4;
-@define-color bright_yellow #ffb6c1;
-@define-color bright_blue #ff1493;
-@define-color bright_magenta #db7093;
-@define-color bright_cyan #ff85b3;
-@define-color bright_white #ffffff;
+@define-color black #2a2a26;
+@define-color red #bf3533;
+@define-color green #8bc7c3;
+@define-color yellow #e98129;
+@define-color blue #8bc7c3;
+@define-color magenta #fbc6c8;
+@define-color cyan #8bc7c3;
+@define-color white #fbc6c8;
+@define-color bright_black #2a2a26;
+@define-color bright_red #bf3533;
+@define-color bright_green #8bc7c3;
+@define-color bright_yellow #e98129;
+@define-color bright_blue #8bc7c3;
+@define-color bright_magenta #fbc6c8;
+@define-color bright_cyan #8bc7c3;
+@define-color bright_white #fbc6c8;
 
 /* Base GTK theme variables */
 @define-color theme_bg_color @background;
