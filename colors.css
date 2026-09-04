@@ -44,29 +44,29 @@
 
   /* ANSI palette */
   @define-color color0 #0b0d11;
-  @define-color color1 #ff69b4;
-  @define-color color2 #ff1493;
-  @define-color color3 #ffb6c1;
-  @define-color color4 #db7093;
+  @define-color color1 #ff1493;
+  @define-color color2 #ff69b4;
+  @define-color color3 #ff85b3;
+  @define-color color4 #ff69b4;
   @define-color color5 #ffffff;
-  @define-color color6 #ffb6c1;
+  @define-color color6 #ff85b3;
   @define-color color7 #ffffff;
   @define-color color8 #674242;
   @define-color color9 #ff0000;
-  @define-color color10 #ff69b4;
-  @define-color color11 #ffb6c1;
-  @define-color color12 #ff1493;
-  @define-color color13 #db7093;
+  @define-color color10 #ff1493;
+  @define-color color11 #ff85b3;
+  @define-color color12 #ff69b4;
+  @define-color color13 #ff69b4;
   @define-color color14 #ff85b3;
   @define-color color15 #ffffff;
 
   /* Optional semantic aliases */
   @define-color background #0b0d11;
   @define-color foreground #ffffff;
-  @define-color accent #ff69b4;
-  @define-color selection_bg #ff69b4;
+  @define-color accent #ff1493;
+  @define-color selection_bg #ff1493;
   @define-color selection_fg #0b0d11;
-  @define-color cursor #ff69b4;
+  @define-color cursor #ff1493;
 
 /*   ____  __   __ */
 /*  / __ \/ /__/ / */

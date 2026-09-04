@@ -17,21 +17,21 @@
 # |                                                   |
 #  .-^~^-. \/ .-^~^-. \\ `-._.-` // .-^~^-. \/ .-^~^-.
 
-# Sakura Mochi — dark lacquer glass with sakura bloom and leaf-green structure.
-# Pink leads focus and selection; green supports framing, depth, and quiet states.
+# Zero Two Theme — inspired by the character from Darling in the FranXX
+# Pink/red leads focus and selection; dark tones provide depth and contrast.
 
 [bar]
 background       = "#0b0d11"
 background-alpha = 0.80
 text             = "#ffffff"
-active           = "#ff69b4"
+active           = "#ff1493"
 scale-with-font  = true
 size-horizontal  = 30
 size-vertical    = 32
 
 [hyprland]
-active-border            = "rgba(ff69b4ee) rgba(ffffffcc) rgba(db7093aa) 35deg"
-active-border-foreground = "rgb(ff69b4) rgb(ff1493) 35deg"
+active-border            = "rgba(ff1493ff) rgba(ffffffcc) rgba(ff69b4aa) 35deg"
+active-border-foreground = "rgb(ff1493) rgb(ff69b4) 35deg"
 
 [controls]
 # Quiet controls carry the leaf tone without outlining every element.
@@ -43,7 +43,7 @@ normal-border-alpha = 0.0
 
 hover-cursor-color        = "#ffffff"
 hover-cursor-fill-alpha   = 0.10
-hover-cursor-border       = "#db7093"
+hover-cursor-border       = "#ff69b4"
 hover-cursor-border-width = 0
 hover-cursor-border-alpha = 0.0
 
@@ -57,7 +57,7 @@ focus-border-alpha = 0.72
 # Persistent selection uses a soft pink fill with one disciplined underline.
 selected-color        = "#ffffff"
 selected-fill-alpha   = 0.18
-selected-border       = "#ff69b4"
+selected-border       = "#ff1493"
 selected-border-width = "0 0 1 0"
 selected-border-alpha = 0.82
 

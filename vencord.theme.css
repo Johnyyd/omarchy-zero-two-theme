@@ -26,21 +26,22 @@
 
 :root {
   --color00: #0b0d11;
-  --color01: #ff69b4;
-  --color02: #ff1493;
-  --color03: #ffb6c1;
-  --color04: #db7093;
+  --color01: #ff1493;
+  --color02: #ff69b4;
+  --color03: #ff85b3;
+  --color04: #ff69b4;
   --color05: #ffffff;
-  --color06: #ffb6c1;
+  --color06: #ff85b3;
   --color07: #ffffff;
   --color08: #674242;
   --color09: #ff0000;
-  --color10: #ff69b4;
-  --color11: #ffb6c1;
-  --color12: #ff1493;
-  --color13: #db7093;
+  --color10: #ff1493;
+  --color11: #ff85b3;
+  --color12: #ff69b4;
+  --color13: #ff69b4;
   --color14: #ff85b3;
   --color15: #ffffff;
+}
 
   --sm-void: #090d13;
   --sm-bg: #0b0d11;
@@ -50,9 +51,9 @@
   --sm-text: #ffffff;
   --sm-text-soft: #d8c6cc;
   --sm-muted: #9e9098;
-  --sm-text-pink: #db7093;
+  --sm-text-pink: #ff69b4;
   --sm-name-pink: #ff0000;
-  --sm-pink: #ff69b4;
+  --sm-pink: #ff1493;
   --sm-pink-bright: #ff0000;
   --sm-pink-frost: color-mix(in srgb, var(--color01) 18%, transparent);
   --sm-pink-line: color-mix(in srgb, var(--color01) 38%, transparent);

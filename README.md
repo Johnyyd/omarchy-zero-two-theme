@@ -1,6 +1,6 @@
 # Omarchy Zero Two Theme
 
-Zero Two is a dark Omarchy theme with vibrant pink accents, deep red structural elements, and a near-black base. Rounded glass surfaces and a subtle glow keep it polished, whether the wallpaper is quiet or loud.
+Zero Two is a dark Omarchy theme inspired by the character from Darling in the FranXX, featuring vibrant pink/red accents, deep structural tones, and a near-black base. Rounded glass surfaces with luminous quality and flowing forms capture her energetic essence.
 
 ## Preview
 
@@ -11,7 +11,7 @@ Zero Two is a dark Omarchy theme with vibrant pink accents, deep red structural 
 Use the Omarchy theme installer:
 
 ```bash
-omarchy-theme-install https://github.com/OldJobobo/omarchy-sakura-mochi-theme
+omarchy-theme-install https://github.com/Johnyyd/omarchy-zero-two-theme
 ```
 
 ## What's Included
@@ -26,19 +26,19 @@ omarchy-theme-install https://github.com/OldJobobo/omarchy-sakura-mochi-theme
 
 <table>
   <tr>
-    <td><img src="backgrounds/0-sakura-mochi.png" width="220" alt="Sakura mochi"></td>
-    <td><img src="backgrounds/1-kitsune-tea-house.jpg" width="220" alt="Kitsune tea house"></td>
-    <td><img src="backgrounds/2-oni-mask-gallery.jpg" width="220" alt="Oni mask gallery"></td>
+    <td><img src="backgrounds/0-zero-two.jpg" width="220" alt="Zero Two"></td>
+    <td><img src="backgrounds/1-zero-two.jpg" width="220" alt="Zero Two"></td>
+    <td><img src="backgrounds/2-zero-two.jpg" width="220" alt="Zero Two"></td>
   </tr>
   <tr>
-    <td><img src="backgrounds/3-signal-gridwave.jpg" width="220" alt="Signal gridwave"></td>
-    <td><img src="backgrounds/4-vr-nebula-runner.jpg" width="220" alt="VR nebula runner"></td>
-    <td><img src="backgrounds/5-neon-smoke-orb.jpg" width="220" alt="Neon smoke orb"></td>
+    <td><img src="backgrounds/3-zero-two.jpg" width="220" alt="Zero Two"></td>
+    <td><img src="backgrounds/4-zero-two.jpg" width="220" alt="Zero Two"></td>
+    <td><img src="backgrounds/5-zero-two.jpg" width="220" alt="Zero Two"></td>
   </tr>
   <tr>
-    <td><img src="backgrounds/6-neon-goggles-girl.jpg" width="220" alt="Neon goggles girl"></td>
-    <td><img src="backgrounds/7-pink-cadillac-cat.jpg" width="220" alt="Pink cadillac cat"></td>
-    <td><img src="backgrounds/8-soapsuds-foam.jpg" width="220" alt="Soapsuds foam"></td>
+    <td><img src="backgrounds/6-zero-two.jpg" width="220" alt="Zero Two"></td>
+    <td><img src="backgrounds/7-zero-two.jpg" width="220" alt="Zero Two"></td>
+    <td><img src="backgrounds/8-zero-two.jpg" width="220" alt="Zero Two"></td>
   </tr>
 </table>
 

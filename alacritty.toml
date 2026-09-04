@@ -32,11 +32,11 @@ foreground = "#ffffff"
 
 [colors.cursor]
 text = "#0b0d11"
-cursor = "#ff69b4"
+cursor = "#ff1493"
 
 [colors.vi_mode_cursor]
 text = "#0b0d11"
-cursor = "#ff69b4"
+cursor = "#ff1493"
 
 [colors.search.matches]
 foreground = "#0b0d11"
@@ -56,12 +56,12 @@ background = "#ff69b4"
 
 [colors.normal]
 black   = "#0b0d11"
-red     = "#ff69b4"
-green   = "#ff1493"
-yellow  = "#ffb6c1"
-blue    = "#db7093"
+red     = "#ff1493"
+green   = "#ff69b4"
+yellow  = "#ff85b3"
+blue    = "#ff69b4"
 magenta = "#ffffff"
-cyan    = "#ffb6c1"
+cyan    = "#ff85b3"
 white   = "#ffffff"
 
 [colors.bright]

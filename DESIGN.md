@@ -1,32 +1,32 @@
-# Sakura Mochi Design Language
+# Zero Two Design Language
 
 ## Core Idea
 
-Sakura Mochi is a dark glass theme built around the tension between sweet pink light and cool green structure.
+Zero Two is a dark glass theme inspired by the character from Darling in the FranXX, built around vibrant pink/red accents, deep structural tones, and a near-black base. Rounded glass surfaces and a subtle glow capture her essence.
 
 It should feel:
 
-- lacquered
-- plush
-- nocturnal
-- playful, but not sugary
-- stylized, but still readable
+- vibrant
+- energetic
+- futuristic
+- bold, but not overwhelming
+- stylized, yet still readable
 
-The theme is not meant to be pastel-cute or neon-chaotic. Its identity comes from using pink as the emotional highlight and green as the balancing frame.
+The theme is not meant to be pastel-cute or dark and brooding. Its identity comes from using pink/red as the vibrant energy and dark structural tones as the grounding frame.
 
 ## Visual Voice
 
 The voice of the theme is:
 
-- pink for glow, focus, and bloom
-- green for shape, restraint, and support
-- near-black plum for depth
-- soft translucency instead of flat solid panels
-- rounded forms instead of hard industrial edges
+- vibrant pink/red for energy, focus, and vitality
+- deep structural tones for shape, depth, and grounding
+- near-black base for contrast and intensity
+- soft translucency with luminous quality instead of flat panels
+- rounded, flowing forms inspired by her long hair
 
-If a surface becomes only pink, the theme loses balance.
-If a surface becomes only green, the theme loses personality.
-The theme works when pink and green are both present, but doing different jobs.
+If a surface becomes only pink/red, the theme loses depth.
+If a surface becomes only dark, the theme loses vitality.
+The theme works when vibrant pink/red and deep structural tones are both present, creating her distinctive energy.
 
 ## Source Of Truth
 
