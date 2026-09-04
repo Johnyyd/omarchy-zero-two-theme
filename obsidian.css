@@ -1,0 +1,128 @@
+/*  .-^~^-. \/ .-^~^-. \\ `-._.-` // .-^~^-. \/ .-^~^-. */
+/* |                                                   | */
+/* |   ,---.          ,--.                             | */
+/* |  '   .-'  ,--,--.|  |,-.,--.,--.,--.--. ,--,--.   | */
+/* |  `.  `-. ' ,-.  ||     /|  ||  ||  .--'' ,-.  |   | */
+/* |  .-'    |\ '-'  ||  \  \'  ''  '|  |   \ '-'  |   | */
+/* |  `-----'  `--`--'`--'`--'`----' `--'    `--`--'   | */
+/* |                 . .         . .                   | */
+/* |               .-^~^-.     .-^~^-.                 | */
+/* |               `-._.-'     `-._.-'                 | */
+/* |                  |           |                    | */
+/* |     ,--.   ,--.             ,--.     ,--.         | */
+/* |     |   `.'   | ,---.  ,---.|  ,---. `--'         | */
+/* |     |  |'.'|  || .-. || .--'|  .-.  |,--.         | */
+/* |     |  |   |  |' '-' '\ `--.|  | |  ||  |         | */
+/* |     `--'   `--' `---'  `---'`--' `--'`--'         | */
+/* |                                                   | */
+/*  .-^~^-. \/ .-^~^-. \\ `-._.-` // .-^~^-. \/ .-^~^-. */
+
+/* Omarchy Theme for Obsidian */
+
+.theme-dark, .theme-light {
+  /* Core colors */
+  --background-primary: #0b0d11;
+  --background-primary-alt: #0b0d11;
+  --background-secondary: #0b0d11;
+  --background-secondary-alt: #0b0d11;
+  --text-normal: #ffffff;
+
+  /* Selection colors */
+  --text-selection: #ff69b4;
+
+  /* Border color */
+  --background-modifier-border: #4a5d46;
+
+  /* Semantic heading colors */
+  --text-title-h1: #ff69b4;
+  --text-title-h2: #ff1493;
+  --text-title-h3: #ffb6c1;
+  --text-title-h4: #db7093;
+  --text-title-h5: #ffffff;
+  --text-title-h6: #ffffff;
+
+  /* Links and accents */
+  --text-link: #db7093;
+  --text-accent: #ff69b4;
+  --text-accent-hover: #ff69b4;
+  --interactive-accent: #ff69b4;
+  --interactive-accent-hover: #ff69b4;
+
+  /* Muted text */
+  --text-muted: color-mix(in srgb, #ffffff 70%, transparent);
+  --text-faint: color-mix(in srgb, #ffffff 55%, transparent);
+
+  /* Code */
+  --code-normal: #ffb6c1;
+
+  /* Errors and success */
+  --text-error: #ff69b4;
+  --text-error-hover: #ff69b4;
+  --text-success: #ff1493;
+
+  /* Tags */
+  --tag-color: #ffb6c1;
+  --tag-background: #4a5d46;
+
+  /* Graph */
+  --graph-line: #4a5d46;
+  --graph-node: #ff69b4;
+  --graph-node-focused: #db7093;
+  --graph-node-tag: #ffb6c1;
+  --graph-node-attachment: #ff1493;
+}
+
+/* Headers */
+.cm-header-1, .markdown-rendered h1 { color: var(--text-title-h1); }
+.cm-header-2, .markdown-rendered h2 { color: var(--text-title-h2); }
+.cm-header-3, .markdown-rendered h3 { color: var(--text-title-h3); }
+.cm-header-4, .markdown-rendered h4 { color: var(--text-title-h4); }
+.cm-header-5, .markdown-rendered h5 { color: var(--text-title-h5); }
+.cm-header-6, .markdown-rendered h6 { color: var(--text-title-h6); }
+
+/* Code blocks */
+.markdown-rendered code {
+  color: #ffb6c1;
+}
+
+/* Syntax highlighting */
+.cm-s-obsidian span.cm-keyword { color: #ff69b4; }
+.cm-s-obsidian span.cm-string { color: #ff1493; }
+.cm-s-obsidian span.cm-number { color: #ffb6c1; }
+.cm-s-obsidian span.cm-comment { color: #674242; }
+.cm-s-obsidian span.cm-operator { color: #db7093; }
+.cm-s-obsidian span.cm-def { color: #db7093; }
+
+/* Links */
+.markdown-rendered a {
+  color: var(--text-link);
+}
+
+/* Blockquotes */
+.markdown-rendered blockquote {
+  border-left-color: #ff69b4;
+}
+
+/* Active elements */
+.workspace-leaf.mod-active .workspace-leaf-header-title {
+  color: var(--interactive-accent);
+}
+
+.nav-file-title.is-active {
+  color: var(--interactive-accent);
+}
+
+/* Search results */
+.search-result-file-title {
+  color: var(--interactive-accent);
+}
+
+/*   ____  __   __ */
+/*  / __ \/ /__/ / */
+/* / /_/ / / _  /  */
+/* \____/_/\_,_/   */
+/*      __     __        __       */
+/*  __ / /__  / /  ___  / /  ___  */
+/* / // / _ \/ _ \/ _ \/ _ \/ _ \ */
+/* \___/\___/_.__/\___/_.__/\___/ */
+/*                                */

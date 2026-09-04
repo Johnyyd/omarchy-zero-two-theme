@@ -1,0 +1,108 @@
+#  .-^~^-. \/ .-^~^-. \\ `-._.-` // .-^~^-. \/ .-^~^-.
+# |                                                   |
+# |   ,---.          ,--.                             |
+# |  '   .-'  ,--,--.|  |,-.,--.,--.,--.--. ,--,--.   |
+# |  `.  `-. ' ,-.  ||     /|  ||  ||  .--'' ,-.  |   |
+# |  .-'    |\ '-'  ||  \  \'  ''  '|  |   \ '-'  |   |
+# |  `-----'  `--`--'`--'`--'`----' `--'    `--`--'   |
+# |                 . .         . .                   |
+# |               .-^~^-.     .-^~^-.                 |
+# |               `-._.-'     `-._.-'                 |
+# |                  |           |                    |
+# |     ,--.   ,--.             ,--.     ,--.         |
+# |     |   `.'   | ,---.  ,---.|  ,---. `--'         |
+# |     |  |'.'|  || .-. || .--'|  .-.  |,--.         |
+# |     |  |   |  |' '-' '\ `--.|  | |  ||  |         |
+# |     `--'   `--' `---'  `---'`--' `--'`--'         |
+# |                                                   |
+#  .-^~^-. \/ .-^~^-. \\ `-._.-` // .-^~^-. \/ .-^~^-.
+
+# Main background, empty for terminal default, need to be empty if you want transparent background
+theme[main_bg]="#0b0d11"
+
+# Main text color
+theme[main_fg]="#ffffff"
+
+# Title color for boxes
+theme[title]="#db7093"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#ff1493"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#4a5d46"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#ffffff"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#674242"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#d8c6cc"
+
+# Box outline and divider line color
+theme[cpu_box]="#ff1493"
+theme[mem_box]="#ffffff"
+theme[net_box]="#ffb6c1"
+theme[proc_box]="#db7093"
+theme[div_line]="#4a5d46"
+
+# Gradient for all meters and graphs
+theme[temp_start]="#ffb6c1"
+theme[temp_mid]="#ff1493"
+theme[temp_end]="#ffb6c1"
+
+
+theme[cpu_start]="#ff1493"
+theme[cpu_mid]="#db7093"
+theme[cpu_end]="#ffffff"
+
+
+theme[free_start]="#4a5d46"
+theme[free_mid]="#ff1493"
+theme[free_end]="#ff69b4"
+
+
+theme[cached_start]="#ffb6c1"
+theme[cached_mid]="#ff1493"
+theme[cached_end]="#ffffff"
+
+
+theme[available_start]="#ffb6c1"
+theme[available_mid]="#ff1493"
+theme[available_end]="#ff69b4"
+
+
+theme[used_start]="#ff1493"
+theme[used_mid]="#ffffff"
+theme[used_end]="#ff69b4"
+
+
+theme[download_start]="#ff1493"
+theme[download_mid]="#ffb6c1"
+theme[download_end]="#ffffff"
+
+
+theme[upload_start]="#ffffff"
+theme[upload_mid]="#ff69b4"
+theme[upload_end]="#db7093"
+
+#   ____  __   __
+#  / __ \/ /__/ /
+# / /_/ / / _  / 
+# \____/_/\_,_/  
+#      __     __        __      
+#  __ / /__  / /  ___  / /  ___ 
+# / // / _ \/ _ \/ _ \/ _ \/ _ \
+# \___/\___/_.__/\___/_.__/\___/
+
+#   ____  __   __
+#  / __ \/ /__/ /
+# / /_/ / / _  / 
+# \____/_/\_,_/  
+#      __     __        __      
+#  __ / /__  / /  ___  / /  ___ 
+# / // / _ \/ _ \/ _ \/ _ \/ _ \
+# \___/\___/_.__/\___/_.__/\___/
+#                               

@@ -1,0 +1,107 @@
+#  .-^~^-. \/ .-^~^-. \\ `-._.-` // .-^~^-. \/ .-^~^-.
+# |                                                   |
+# |   ,---.          ,--.                             |
+# |  '   .-'  ,--,--.|  |,-.,--.,--.,--.--. ,--,--.   |
+# |  `.  `-. ' ,-.  ||     /|  ||  ||  .--'' ,-.  |   |
+# |  .-'    |\ '-'  ||  \  \'  ''  '|  |   \ '-'  |   |
+# |  `-----'  `--`--'`--'`--'`----' `--'    `--`--'   |
+# |                 . .         . .                   |
+# |               .-^~^-.     .-^~^-.                 |
+# |               `-._.-'     `-._.-'                 |
+# |                  |           |                    |
+# |     ,--.   ,--.             ,--.     ,--.         |
+# |     |   `.'   | ,---.  ,---.|  ,---. `--'         |
+# |     |  |'.'|  || .-. || .--'|  .-.  |,--.         |
+# |     |  |   |  |' '-' '\ `--.|  | |  ||  |         |
+# |     `--'   `--' `---'  `---'`--' `--'`--'         |
+# |                                                   |
+#  .-^~^-. \/ .-^~^-. \\ `-._.-` // .-^~^-. \/ .-^~^-.
+
+# Accent and UI colors
+accent = "#ff69b4"
+active_border_color = "#ff69b4"
+active_tab_background = "#ff69b4"
+
+# Cursor colors
+cursor = "#ff69b4"
+
+# Primary colors
+foreground = "#ffffff"
+background = "#0b0d11"
+
+# Selection colors
+selection_foreground = "#0b0d11"
+selection_background = "#ff69b4"
+
+# Normal colors (ANSI 0-7)
+color0 = "#0b0d11"
+color1 = "#ff69b4"
+color2 = "#ff1493"
+color3 = "#ffb6c1"
+color4 = "#db7093"
+color5 = "#ffffff"
+color6 = "#ffb6c1"
+color7 = "#ffffff"
+
+# Bright colors (ANSI 8-15)
+color8 = "#674242"
+color9 = "#ff0000"
+color10 = "#ff69b4"
+color11 = "#ffb6c1"
+color12 = "#ff1493"
+color13 = "#db7093"
+color14 = "#ff85b3"
+color15 = "#ffffff"
+
+#   ____  __   __
+#  / __ \/ /__/ /
+# / /_/ / / _  / 
+# \____/_/\_,_/  
+#      __     __        __      
+#  __ / /__  / /  ___  / /  ___ 
+# / // / _ \/ _ \/ _ \/ _ \/ _ \
+# \___/\___/_.__/\___/_.__/\___/
+#                               
+
+# Omarchy 4 semantic palette roles. Keep these aligned with color0-color15.
+mode = "dark"
+bg = "#0b0d11"
+lighter_bg = "#19171c"
+selection = "#ff69b4"
+# Readable low-emphasis text; dark_fg remains the decorative structural green.
+muted = "#674242"
+dark_fg = "#4a5d46"
+fg = "#ffffff"
+light_fg = "#ffffff"
+soft_fg = "#d8c6cc"
+bright_fg = "#ffffff"
+red = "#ff69b4"
+green = "#ff1493"
+yellow = "#ffb6c1"
+blue = "#db7093"
+magenta = "#ffffff"
+cyan = "#ffb6c1"
+orange = "#ffb6c1"
+brown = "#6c5f4b"
+dark_bg = "#080a0d"
+darker_bg = "#060709"
+bright_red = "#ff0000"
+bright_green = "#ff69b4"
+bright_yellow = "#ffb6c1"
+bright_blue = "#ff1493"
+bright_magenta = "#db7093"
+bright_cyan = "#ff85b3"
+
+# Quattro shares these gradients between Hyprland and shell surfaces.
+hyprland_active_border = "rgba(ff69b4ee) rgba(ffffffcc) rgba(db7093aa) 35deg"
+hyprland_inactive_border = "rgba(67424299)"
+
+#   ____  __   __
+#  / __ \/ /__/ /
+# / /_/ / / _  / 
+# \____/_/\_,_/  
+#      __     __        __      
+#  __ / /__  / /  ___  / /  ___ 
+# / // / _ \/ _ \/ _ \/ _ \/ _ \
+# \___/\___/_.__/\___/_.__/\___/
+#                               
